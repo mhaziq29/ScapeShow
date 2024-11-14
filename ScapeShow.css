@@ -1,0 +1,277 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: #fff;
+   
+}
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 5px;
+    font-size: 50px;
+    margin-bottom: 0%;
+    }
+
+img{
+    width: 1500px;
+    height: 700px;
+    margin: 5px;
+
+}
+
+#cvb{
+    font-size: large;
+    position: absolute;
+    right: 15px;
+    top: 35px
+}
+
+#fgh{
+    font-size: large;
+    position: absolute;
+    right: 115px;
+    top: 35px;
+}
+
+#tyu{
+    font-size: large;
+    position: absolute;
+    right: 230px;
+    top: 35px;
+}
+
+#qwe{
+    font-size: large;
+    position: absolute;
+    right: 310px;
+    top: 35px;
+}
+
+#pop{
+    padding: 300px;
+    position: absolute;
+    top: 50px;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#ppo{
+    padding: 20px;
+    width: 300px;
+}
+
+.button {
+    background-color: #000;
+    color:white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    text-decoration: none;}
+
+    .producte img{
+        width: 500px;
+        height: 500px;
+        border-radius: 10px;
+     }
+
+.producte{
+position: absolute;
+right: 30px;
+top: 800px;
+margin: 10px ;
+}
+
+.uio{
+    margin: 10px;
+}
+
+.productb{
+    position: absolute;
+right: 560px;
+top: 800px;
+margin: 10px ;
+}
+.productb img{
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+ }
+#opp{
+    position: relative;
+    top: 340px;
+}
+
+.wio{
+    width: 400px;
+    margin-left: 10px;
+}
+
+#container img{
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+}
+#container{
+    margin-top: 40px;
+}
+
+#container12 img{
+    width: 420px;
+    height: 500px;
+    border-radius: 10px;
+}
+#container12{
+    margin-top: 20px;
+    position: relative;
+    left: 530px;
+    bottom: 720px;
+}
+
+#container13{
+    margin-top: 25px;
+    position: relative;
+    left: 530px;
+    bottom: 705px;}
+
+#socials{
+    position: relative;
+    top: -1030px;  
+}
+#socials img{
+    
+    width: 480px;
+    border-radius: 20px;
+}
+#yuuu{
+    text-align: center;
+    padding-left:30px;
+    padding-right: 30px;
+    font-size: 40px;
+    position: relative;
+    top: 20px;
+    left: 650px;
+}
+
+
+
+#contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em;
+    background-color: #f0f2f5;
+  }
+  
+  #contact h2 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  #contact p {
+    color: #555;
+    margin-bottom: 2em;
+    text-align: center;
+    max-width: 500px;
+  }
+  
+  #contact label {
+    font-weight: bold;
+    display: block;
+    margin-top: 1em;
+  }
+  
+  #contact .name-fields {
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    max-width: 500px;
+  }
+  
+  
+  #contact .name-fields div {
+    flex: 1;
+  }
+  
+  #contact input[type="text"],
+  #contact input[type="email"],
+  #contact textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    font-size: 16px;
+    resize: vertical;
+  }
+  
+  #contact textarea {
+    height: 100px;
+  }
+  
+  #contact .submit-button {
+    display: block;
+    max-width: 500px;
+    padding: 10px;
+    margin-top: 1.5em;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 45%;
+    padding: 5px 20px 5px 20px;
+  }
+  
+  #contact .submit-button:hover {
+    background-color: #555;
+  }
+
+.lastName {
+    margin-left: 20px;
+}
+
+#contact{
+    margin-top: -970px;
+}
+
+.footer {
+    margin-top: 40px;
+    text-align: left;
+  }
+  
+  .footer .column {
+    display: inline-block;
+    margin: 0 20px;
+    width: 250px;
+  }
+  
+  .social-links {
+    display: flex;
+    justify-content: space-around;
+    width: 250px;
+  }
+  
+  .social-links a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .social-links i {
+    font-size: 24px;
+  }
+
+
+
+
+  
+
+
+
